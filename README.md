@@ -11,8 +11,12 @@ $ cd chartjs_dashboard_node.js-master
 $ http-server 
 
 "Starting up http-server, serving ./
+
 Available on:
-  http://127.0.0.1:8080
-  http://192.168.5.113:8080
-"
+
+http://127.0.0.1:8080
+
+http://192.168.5.113:8080"
+
+
 3) In your browser copy and paste http://127.0.0.1:8080
